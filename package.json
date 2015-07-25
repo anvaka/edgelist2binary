@@ -1,0 +1,23 @@
+{
+  "name": "edgelist2binary",
+  "version": "1.0.0",
+  "description": "Converts edge list graph format into ngraph's binary representation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ngraph",
+    "edge",
+    "list",
+    "binary",
+    "graph",
+    "serialization"
+  ],
+  "author": "Andrei Kashcha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anvaka/edgelist2binary"
+  }
+}
