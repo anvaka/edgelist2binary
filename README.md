@@ -23,7 +23,7 @@ toBinary('edges.txt', {
 });
 ```
 
-** NOTE: ** for the large graphs with millions nodes, make sure to increase
+**NOTE:** For large graphs with millions nodes, make sure to increase
 max memory for node:
 
 ```
